@@ -1,4 +1,5 @@
-﻿using Newtonsoft.Json;
+﻿using FatSecretAPICall.ResponseObjects;
+using Newtonsoft.Json;
 using System.Text;
 
 namespace FatSecretAPICall.Authentication
