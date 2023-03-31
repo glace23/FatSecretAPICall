@@ -9,8 +9,8 @@ Console.WriteLine("Hello, World!");
 
 var cred = new FatSecretCredentials
 {
-    ClientKey = "44a3ee4ca84b42ebb3234bc6bf66518c",
-    ClientSecret = "29c8029e8f1b4fdcae11abc7d1babfdd"
+    ClientKey = "",
+    ClientSecret = ""
 };
 
 var client = new FatSecretClient(cred);
